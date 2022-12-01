@@ -1,4 +1,4 @@
-package com.benyissa.Examples.LearnBuilder;
+package com.benyissa.Examples.LearnBuilder.Implementation1;
 
 public class Person {
 
@@ -6,7 +6,6 @@ public class Person {
     String email;
     String city;
     int age;
-
     public Person Name(String name) {
         this.name = name;
         return this;
