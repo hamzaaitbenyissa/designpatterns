@@ -1,4 +1,4 @@
-package com.benyissa.Examples.Composants;
+package com.benyissa.Examples.composite.foldersandfileexample;
 
 public class Fichier extends Composante{
 
